@@ -1,6 +1,6 @@
 # Your First 3D Game: Squash the creeps 3D
 
-## Same as the one on Godot official docs adapted to 4.0
+## Same as the one on Godot official docs but adapted to 4.0
 
 ## Original README:
 
