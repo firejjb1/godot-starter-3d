@@ -1,5 +1,9 @@
 # Your First 3D Game: Squash the creeps 3D
 
+## Same as the one on Godot official docs adapted to 4.0
+
+## Original README:
+
 ![Squash the creeps banner](images/3d-game-banner.png)
 
 Squash the Creeps 3D is a free and open-source game demo for the [Your First 3D Game](https://docs.godotengine.org/en/latest/getting_started/first_3d_game/) tutorial in the official Godot documentation.
